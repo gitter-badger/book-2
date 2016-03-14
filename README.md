@@ -1,5 +1,7 @@
 # Book
 
+[![Join the chat at https://gitter.im/nicot/book](https://badges.gitter.im/nicot/book.svg)](https://gitter.im/nicot/book?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Everything I've learned from UCDD II - 2016.
 
 # Install
